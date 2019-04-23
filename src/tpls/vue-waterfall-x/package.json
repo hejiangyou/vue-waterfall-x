@@ -1,0 +1,27 @@
+{
+  "name": "vue-waterfall-x",
+  "version": "1.0.0",
+  "description": "this is a waterfall layout for vue2.5",
+  "main": "toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterxu1567/vue-waterfall-x/tree/master"
+  },
+  "bugs": {
+    "url": "https://github.com/misterxu1567/vue-waterfall-x/issues"
+  },
+  "keywords": [
+    "waterfall",
+    "vueWaterfall",
+    "vue-waterfall-x",
+    "vue-waterfall"
+  ],
+  "author": "misterXu",
+  "license": "ISC"
+}
